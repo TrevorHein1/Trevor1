@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
  
-    <title>Carousel Template for Bootstrap</title>
+    <title>TrevorHein</title>
  
     <!-- Bootstrap core CSS -->
     <link href="Content/bootstrap.min.css" rel="stylesheet">
@@ -49,7 +49,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Project name</a>
+              <a class="navbar-brand" href="#">Trevor Hein</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -91,15 +91,15 @@
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-lg-4">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
-          <h2>The Univeristy of Iowa</h2>
+          <img src="./Images/Iowa.jpg" class="img-responsive" data-src="holder.js/140x140" alt="Iowa">
+          <h2>The University of Iowa</h2>
           <p>View details on my education and activities at the Univserity of Iowa.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <img src="./Images/Denver.jpg" class="img-responsive" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Future Career Plans</h2>
+          <p>View details on my plans and goals after graduation in May of 2015.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -111,11 +111,11 @@
  
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">More About Trevor. <span class="text-muted">You'll be suprised!</span></h2>
+          <p class="lead">Here you can discover more about Trevor's interests and involvement outside of school and work.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Trevor" src="./Images/Trevor.jpg" height="325" width="350">
         </div>
       </div>
  
@@ -123,11 +123,13 @@
  
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="gopro" src="./Images/gopro.png">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">GoPro Hero 3.<span class="text-muted">Learn How Trevor GoPros.</span></h2>
+          <p class="lead">See how Trevor films his most adventorous life events using a GoPro camera. He also explains how he edits his films using Apple's Final Cut Pro X software application. You may
+              even be able to find a few of his videos posted in here.
+          </p>
         </div>
       </div>
  
