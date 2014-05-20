@@ -91,13 +91,13 @@
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-lg-4">
-          <img src="./Images/Iowa.jpg" class="img-responsive" data-src="holder.js/140x140" alt="Iowa">
+          <img src="./Images/uiowa.jpg" class="img-responsive" data-src="holder.js/140x140" alt="Iowa">
           <h2>The University of Iowa</h2>
           <p>View details on my education and activities at the Univserity of Iowa.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img src="./Images/Denver.jpg" class="img-responsive" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <img src="./Images/Denver.jpg" class="img-responsive" data-src="holder.js/140x140" alt="Denver">
           <h2>Future Career Plans</h2>
           <p>View details on my plans and goals after graduation in May of 2015.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
@@ -137,11 +137,11 @@
  
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">@TrevvHein. <span class="text-muted">Follow Trevor On Twitter!</span></h2>
+          <p class="lead">Stay up to date on Trevor's current discoveries, laughs, and interests on his real-time twitter feed.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <a class="twitter-timeline" href="https://twitter.com/TrevvHein" data-widget-id="468559053279354881">Tweets by @TrevvHein</a> <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
         </div>
       </div>
  
